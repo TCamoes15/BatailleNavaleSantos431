@@ -1,0 +1,3 @@
+C:/Users/Tiago.SANTOS/Desktop/Bataille/Bataille/cmake-build-debug/CMakeFiles/Bataille.dir
+C:/Users/Tiago.SANTOS/Desktop/Bataille/Bataille/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Tiago.SANTOS/Desktop/Bataille/Bataille/cmake-build-debug/CMakeFiles/rebuild_cache.dir
